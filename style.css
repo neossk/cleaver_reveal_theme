@@ -34,7 +34,7 @@ body {
   background-color: #2b2b2b; }
 
 .reveal {
-  font-family: "Lato", sans-serif;
+  font-family: "나눔고딕","NanumGothic", "맑은고딕", "Malgun Gothic", "Gulim", "굴림", AppleGothic, Arial, sans-serif;
   font-size: 36px;
   font-weight: 200;
   letter-spacing: -0.02em;
