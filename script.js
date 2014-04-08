@@ -13,7 +13,7 @@ Reveal.initialize({
         controls: true,
         progress: true,
         history: true,
-        center: false,
+        center: true,
         theme: 'default',
         transition: 'default'
 });
