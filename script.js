@@ -14,5 +14,5 @@ Reveal.initialize({
         center: true,
         slideNumber: false,
         theme: 'simple',
-        transition: 'page'
+        transition: 'zoom'
 });
