@@ -13,6 +13,6 @@ Reveal.initialize({
         history: true,
         center: true,
         slideNumber: false,
-        theme: 'default',
-        transition: 'default'
+        theme: 'night',
+        transition: 'none'
 });
