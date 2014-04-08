@@ -12,7 +12,7 @@ Reveal.initialize({
         progress: true,
         history: true,
         center: true,
-        slideNumber: true,
+        slideNumber: false,
         theme: 'default',
         transition: 'default'
 });
