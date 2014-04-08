@@ -13,8 +13,7 @@ Reveal.initialize({
         controls: true,
         progress: true,
         history: true,
-        center: true,
-        slideNumber: false,
-        theme: 'simple',
+        center: false,
+        theme: 'default',
         transition: 'default'
 });
