@@ -8,6 +8,6 @@ cleaver_reveal_theme
 
 
 ```
-Hello World
+Hello <b>World</b>
 1111
 ```
